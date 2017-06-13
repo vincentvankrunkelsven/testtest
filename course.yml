@@ -1,4 +1,3 @@
----
 title: testtest
 description: This is an automatically generated demo course which will help you on
   your way to create an awesome DataCamp course.
@@ -11,7 +10,3 @@ time_needed: 1 hour
 instructors: []
 collaborators: []
 silent_collaborators: []
-datasets:
-  Screen Shot 2016-12-08 at 12.50.38.png: Screen shot 2016-12-08 at 12.50.38
-:datasets:
-  test: test.RData
