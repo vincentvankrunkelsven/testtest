@@ -8,5 +8,5 @@ prerequisites:
 difficulty_level: 2
 time_needed: 1 hour
 datasets:
-  Screen Shot 2016-12-08 at 12.50.38.png: Screen shot 2016-12-08 at 12.50.38
+  Screen Shot 2016-12-08 at 12.50.38.png: __IGNORE__
   test: test.RData
