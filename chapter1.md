@@ -7,7 +7,7 @@ attachments :
 
 ## Analyze movie ratings
 
-```yaml
+--- key:58b94c3a47
 type: VideoExercise
 lang: r
 xp: 50
@@ -21,7 +21,7 @@ skills: 1
 
 ## A really bad movie
 
-```yaml
+--- key:41ed62f8e7
 type: MultipleChoiceExercise
 lang: r
 xp: 50
@@ -79,7 +79,7 @@ test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad))
 
 ## More movies
 
-```yaml
+--- key:d885ca1174
 type: NormalExercise
 lang: r
 xp: 100
