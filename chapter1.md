@@ -9,7 +9,7 @@ attachments :
 
 ```yaml
 type: VideoExercise
-key:58b94c3a47
+key: 58b94c3a47
 lang: r
 xp: 50
 skills: 1
@@ -24,7 +24,7 @@ skills: 1
 
 ```yaml
 type: MultipleChoiceExercise
-key:41ed62f8e7
+key: 41ed62f8e7
 lang: r
 xp: 50
 skills: 1
@@ -83,7 +83,7 @@ test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad))
 
 ```yaml
 type: NormalExercise
-key:d885ca1174
+key: d885ca1174
 lang: r
 xp: 100
 skills: 1
