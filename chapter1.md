@@ -12,6 +12,7 @@ type: VideoExercise
 lang: r
 xp: 50
 skills: 1
+key: 41ed62f8e7
 ```
 
 `@video_link`
@@ -26,6 +27,7 @@ type: MultipleChoiceExercise
 lang: r
 xp: 50
 skills: 1
+key: 7827c01dba
 ```
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
@@ -84,6 +86,7 @@ type: NormalExercise
 lang: r
 xp: 100
 skills: 1
+key: d885ca1174
 ```
 
 In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!
