@@ -12,7 +12,7 @@ type: VideoExercise
 lang: r
 xp: 50
 skills: 1
-key: 1909a12e2e
+key: 41ed62f8e7
 ```
 
 `@video_link`
