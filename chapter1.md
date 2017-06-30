@@ -5,7 +5,6 @@ attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 ---
-
 ## Analyze movie ratings
 
 ```yaml
@@ -20,7 +19,6 @@ key: 7827c01dba
 //player.vimeo.com/video/154783078
 
 ---
-
 ## A really bad movie
 
 ```yaml
@@ -80,7 +78,6 @@ test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad))
 ```
 
 ---
-
 ## More movies
 
 ```yaml
