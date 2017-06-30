@@ -12,7 +12,6 @@ type: VideoExercise
 lang: r
 xp: 50
 skills: 1
-key: 41ed62f8e7
 ```
 
 `@video_link`
@@ -24,7 +23,6 @@ key: 41ed62f8e7
 
 ```yaml
 type: MultipleChoiceExercise
-key: 7827c01dba
 lang: r
 xp: 50
 skills: 1
@@ -83,7 +81,6 @@ test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad))
 
 ```yaml
 type: NormalExercise
-key: d885ca1174
 lang: r
 xp: 100
 skills: 1
