@@ -3,6 +3,7 @@ title       : Insert the chapter title here
 description : Insert the chapter description here
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
+
 ---
 
 ## Analyze movie ratings
@@ -12,7 +13,7 @@ type: VideoExercise
 lang: r
 xp: 50
 skills: 1
-key: 41ed62f8e7
+key: 7827c01dba
 ```
 
 `@video_link`
@@ -27,13 +28,13 @@ type: MultipleChoiceExercise
 lang: r
 xp: 50
 skills: 1
-key: 7827c01dba
+key: 6ee9b31bb1
 ```
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
 
 ```{r}
-Even with some code
+# Even with some code
 ```
 
 Go ahead now and do it yourself.
@@ -60,6 +61,7 @@ library(ggplot2)
 
 # 3. Create a plot in the viewer, that students can check out while reading the exercise
 ggplot(movies, aes(x = runtime, y = rating, col = genre)) + geom_point()
+tes
 ```
 
 `@sct`
