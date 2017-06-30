@@ -9,7 +9,6 @@ attachments :
 
 ```yaml
 type: VideoExercise
-key: 58b94c3a47
 lang: r
 xp: 50
 skills: 1
