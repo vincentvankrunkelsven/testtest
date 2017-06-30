@@ -24,7 +24,7 @@ key: 41ed62f8e7
 
 ```yaml
 type: MultipleChoiceExercise
-key: 41ed62f8e7
+key: 7827c01dba
 lang: r
 xp: 50
 skills: 1
